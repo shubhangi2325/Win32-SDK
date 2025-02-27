@@ -1,0 +1,1 @@
+#define IDC_DRAWING 200

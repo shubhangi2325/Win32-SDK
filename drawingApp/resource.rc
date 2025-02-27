@@ -1,0 +1,3 @@
+#include"resource.h"
+
+IDC_DRAWING ICON "drawingApp.ico"
